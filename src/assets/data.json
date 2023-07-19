@@ -1,0 +1,22 @@
+{
+	"dateFlight": "2017-06-21T19:00:00.000Z",
+	"flight": "AB-3377",
+	"plnType": "B-757-200",
+	"pln": "XXXAK",
+	"timeFlight": 26100,
+	"timeBlock": 27000,
+	"timeNight": 16200,
+	"timeBiologicalNight": 28200,
+	"timeWork": 37800,
+	"type": 0,
+	"takeoff": {
+		"name": "Томск(Богашево)",
+		"lat": 56.38333333,
+		"long": 85.2
+	},
+	"landing": {
+		"name": "Нячанг(Камрань Интл)",
+		"lat": 11.99805555,
+		"long": 109.21944444
+	}
+}
